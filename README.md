@@ -24,10 +24,13 @@ I specialize in building data-driven solutions, machine learning models, and int
 ---
 
 ## 📂 Featured Projects
-### 🔹 FAZtream — Event Streaming Platform (In progress)
+### 🔹 FAZtream — Event Streaming Platform 
 A platform for managing events, live streams, and audience engagement.
 
-### 🔹 Image Classification Project  
+### 🔹 Pantau.In — SDGs Analytics Dashboard 
+An innovative dashboard platform that helps accelerate the achievement of SDGs indicators effectively.
+
+### 🔹 Image Classification Project (In progress)
 Deep learning model for classifying various image categories using CNN.
 
 ### 🔹 Portfolio Website  
