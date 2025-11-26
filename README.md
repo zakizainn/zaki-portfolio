@@ -1,35 +1,53 @@
-# AstroZen - Personal Portfolio Website
+# 🌟 Muhammad Zaki Zain Fanuruddin Putra  
+### Data Scientist • 
 
-AstroZen is a minimalist, accessible and responsive portfolio template for your personal portfolio website. It is built with Astro and TailwindCSS.
+Welcome to my portfolio repository!  
+I specialize in building data-driven solutions, machine learning models, and intelligent systems that solve real-world problems.
 
-![zen-og](https://github.com/user-attachments/assets/7a72aaae-6652-4cd0-becc-8e6a3c224993)
+---
 
-> [!NOTE]
-> The information contained in this template, including names, images, and content, is entirely fictitious and is intended solely to give the design a realistic appearance. Any coincidence with real-life people, events, or situations is purely coincidental. It is recommended that you replace this information with your own information.
+## 🚀 About Me
+- Passionate about **data science, machine learning, and AI engineering**
+- Strong interest in **computer vision, deep learning, and predictive modelling**
+- Experienced with **Python, ML pipelines, and cloud deployments**
+- Currently developing personal ML projects and learning more about **MLOps** & **production-level systems**
 
-## 🔥 Features
+---
 
-- [x] Minimalist design. clean and simple
-- [x] Mobile-first responsive layout
-- [x] SEO-friendly and accessible
-- [x] Easy to customize with a single configuration file
+## 🧠 Skills & Technologies
+- **Languages:** Python, SQL, JavaScript  
+- **ML/DL:** TensorFlow, PyTorch, Scikit-learn  
+- **Data:** Pandas, NumPy, Matplotlib, Seaborn  
+- **MLOps:** Docker, Git, CI/CD, FastAPI  
+- **Other:** Astro, Next.js, Tailwind CSS  
 
-## ✅ Lighthouse Score
+---
 
-![performance](https://github.com/user-attachments/assets/4f95e2ca-03f9-4996-9e34-dcd179194c58)
+## 📂 Featured Projects
+### 🔹 FAZtream — Event Streaming Platform (In progress)
+A platform for managing events, live streams, and audience engagement.
 
-## 🚀 Getting Started
+### 🔹 Image Classification Project  
+Deep learning model for classifying various image categories using CNN.
 
-Clone this repository to your local machine using Git.
+### 🔹 Portfolio Website  
+This repository! Built using **Astro + Tailwind** and deployed on **Vercel**.
 
-```scheme
-git clone https://github.com/immois/astro-zen.git
-cd astro-zen
-```
+---
 
-| Command        | Action                                       |
-| :------------- | :------------------------------------------- |
-| `pnpm install` | Installs dependencies                        |
-| `pnpm dev`     | Starts local dev server at `localhost:4321`  |
-| `pnpm build`   | Build your production site to `./dist/`      |
-| `pnpm preview` | Preview your build locally, before deploying |
+## 📌 Current Focus
+- Improving my skills in **computer vision** and **ML deployment**
+- Working on portfolio-ready ML projects  
+- Learning more about **scalable ML systems**
+
+---
+
+## 📬 Contact
+- **Portfolio:** https://mzakizainfp.vercel.app  
+- **GitHub:** https://github.com/zakizainn  
+- **LinkedIn:** *add later if available*  
+- **Email:** *your email here*
+
+---
+
+Thanks for visiting! ⭐
