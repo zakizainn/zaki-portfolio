@@ -36,17 +36,17 @@ This repository! Built using **Astro + Tailwind** and deployed on **Vercel**.
 ---
 
 ## 📌 Current Focus
-- Improving my skills in **computer vision** and **ML deployment**
-- Working on portfolio-ready ML projects  
-- Learning more about **scalable ML systems**
+- Strengthening my skills in **data analytics, data engineering, and ETL pipelines**
+- Learning more about **data warehousing**, **Big Data processing**, and **cloud platforms**
+- Building projects related to **dashboarding, data pipelines, and automated data workflows**
 
 ---
 
 ## 📬 Contact
 - **Portfolio:** https://mzakizainfp.vercel.app  
 - **GitHub:** https://github.com/zakizainn  
-- **LinkedIn:** *add later if available*  
-- **Email:** *your email here*
+- **LinkedIn:** https://www.linkedin.com/in/muhammadzakizainfp/  
+- **Email:** zakizainn18@gmail.com
 
 ---
 
