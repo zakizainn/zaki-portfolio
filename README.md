@@ -1,5 +1,5 @@
 # 🌟 Muhammad Zaki Zain Fanuruddin Putra  
-### Data Scientist • 
+### Data Scientist 
 
 Welcome to my portfolio repository!  
 I specialize in building data-driven solutions, machine learning models, and intelligent systems that solve real-world problems.
